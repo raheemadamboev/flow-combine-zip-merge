@@ -1,4 +1,4 @@
-package xyz.teamgravity.flowcombinezipmerge.ui.theme
+package xyz.teamgravity.flowcombinezipmerge.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package xyz.teamgravity.flowcombinezipmerge.ui.theme
+package xyz.teamgravity.flowcombinezipmerge.presentation.theme
 
 import android.app.Activity
 import android.os.Build
