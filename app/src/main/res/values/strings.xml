@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Flow Combine Zip Merge</string>
+
+    <!-- Main -->
+    <string name="combine">combine()</string>
+    <string name="zip">zip()</string>
+    <string name="merge">merge()</string>
 </resources>
